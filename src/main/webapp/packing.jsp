@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Packing</title>
+    <style>
+    .head{
+        text-align: center;
+        padding-bottom: 25px;
+    }
+    body{
+        /* bg-secondary; */
+    }
+    p{
+        padding:25px;
+    }
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+</head>
+<body style="background-color:lightyellow;">
+<h1><a href="index.jsp">Home</a></h1>
+    <div class="head">
+    <h1>Packing Department</h1>
+    </div>
+    <div class="container text-center">
+        <div class="row" >
+          <div class="col" >
+            <img src="./images/pack1.jpeg" height="350px" width="350px" class="border border-dark">
+          </div>
+          <div class="col">
+            <img src="./images/pack2.jpg" height="350px" width="350px" class="border border-dark">
+          </div>
+          <div class="col">
+            <img src="./images/Pack3.jpeg" height="350px" width="350px" class="border border-dark">
+          </div>
+        </div>
+      </div>
+    <p><b><h3>We have a dedicated packing department that plays a crucial role in ensuring the efficient and accurate packaging of our garments. This department is responsible for carefully folding, packaging, and labeling our clothing items, preparing them for shipment to customers or distribution to retail stores.</h3></b><br><br>
+
+        <h3>1.Packaging Materials:</h3><b> The packing department maintains a variety of packaging materials suitable for garments. These include polybags, cardboard boxes, tissue paper, garment tags, hangers, and adhesive tapes. The selection of packaging materials depends on the specific requirements of the garments and the preferences of our customers.</b><br><br>
+        
+        <h3>2.Folding and Packaging Techniques:</h3><b> Our packing department employs skilled workers who are trained in folding garments using industry-standard techniques. Different garments require specific folding methods to ensure they maintain their shape and minimize wrinkles during transportation. The packed garments are then carefully placed in appropriate packaging materials, ensuring their protection and presentation.</b><br><br>
+        
+        <h3>3.Packaging Specifications:</h3><b> The packing department follows specific guidelines to meet the packaging specifications of our customers or retail partners. These specifications may include the number of garments per package, the arrangement of garments within the packaging, the inclusion of promotional materials or inserts, and any specific labeling or branding requirements.</b><br><br>
+        
+        <h3>4.Quality Control:</h3><b> The packing department has stringent quality control procedures in place to ensure that each garment is carefully inspected before packaging. This includes checking for any defects, loose threads, stains, or irregularities. Garments that do not meet our quality standards are promptly returned to the production department for rectification.</b><br><br>
+        
+        <h3>5.Labeling and Tagging:</h3><b> Each garment is accurately labeled and tagged in the packing department. This involves attaching size labels, care labels, and price tags as per customer or retail specifications. Additionally, barcode labels or RFID tags may be affixed to enable efficient inventory management and tracking throughout the supply chain.</b><br><br>
+        
+        <h3>6.Packing Efficiency:</h3><b> The packing department focuses on maximizing efficiency while maintaining quality. This involves optimizing the workflow, organizing packing stations, and utilizing appropriate equipment such as folding tables, packing machines, and garment bagging systems. Efficient packing techniques help streamline operations and meet demanding production schedules.</b><br><br>
+        
+        <h3>7.Packaging Customization:</h3><b> Our packing department offers customization options for customers who require special packaging for their garments. This may include branded packaging, gift-wrapping, or personalized messages. We work closely with our customers to meet their specific packaging needs and enhance their brand image.</b><br><br>
+        
+       <h3> 8.Collaboration with Shipping and Logistics:</h3><b> Once the garments are packed and labeled, they are handed over to the shipping and logistics department. The packing department collaborates closely with this department to ensure smooth transfer, accurate documentation, and timely dispatch of the packaged garments to the desired destinations.</b></p>
+
+       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+</body>
+</html>
